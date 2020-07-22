@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **saadanis/saadanis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## Hello.
+I am Saad, a CS student at <a href="http://www.qu.edu.qa" target="_blank">Qatar University</a>. I am currently working on an <a href="http://github.com/saadanis/TCAConcept">iOS app for making and managing daily routines</a>.
+
+<a href="http://saadanis.com">My Personal Website.</a>
