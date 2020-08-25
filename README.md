@@ -14,6 +14,6 @@ Here are some ideas to get you started:
 -->
 
 ## Hello.
-I am Saad, a CS student at <a href="http://www.qu.edu.qa" target="_blank">Qatar University</a>. I am currently working on an <a href="http://github.com/saadanis/TCAConcept">iOS app for making and managing daily routines</a>.
+I am Saad, a CS student at <a href="http://www.qu.edu.qa" target="_blank">Qatar University</a>. I am currently working on an <a href="http://github.com/saadanis/Vexillology">iOS app for al things concerning flags</a>.
 
 <a href="http://saadanis.com">My Personal Website.</a>
