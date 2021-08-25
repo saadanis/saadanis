@@ -14,6 +14,6 @@ Here are some ideas to get you started:
 -->
 
 ## Hello.
-I am Saad, a CS student at <a href="http://www.qu.edu.qa" target="_blank">Qatar University</a>. I am currently working on an <a href="http://github.com/saadanis/Vexillology">iOS app for all things concerning flags</a>.
+I am Saad, a CS student at <a href="http://www.qu.edu.qa" target="_blank">Qatar University</a>. I am currently working on a <a href="http://github.com/saadanis/Vexillum">basic (but not so basic) iOS app</a> to hone my SwiftUI skills.
 
 <a href="http://saadanis.com">My Personal Website.</a>
